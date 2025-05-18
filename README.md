@@ -1,5 +1,5 @@
 📄 Image Stitcher - Python Script 
-Overview
+
 This script provides a graphical user interface (GUI) using Tkinter to load two images and stitch them together using feature matching and homography with OpenCV. It uses the SIFT (Scale-Invariant Feature Transform) algorithm to detect keypoints and descriptors, and FLANN (Fast Library for Approximate Nearest Neighbors) for matching.
 
 🧾 Requirements
